@@ -11,7 +11,4 @@
 - Git, GitHub
 
 ## Projects
-- [Discord Bot Logger](https://github.com/jennienguyn/discordbotlogger)
-
-## Activity
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jennienguyn&theme=react-dark)
+- [Discord Bot Logger](https://github.com/jennienguyn/botdiscordlog)
